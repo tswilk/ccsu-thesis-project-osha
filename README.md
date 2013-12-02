@@ -1,5 +1,3 @@
-Links to View IPython Notebooks Online
-======================================
 [osha_01_structured_feature_set.ipynb](http://nbviewer.ipython.org/7535438)
 
 [osha_02_unstructured_preprocessing.ipynb](http://nbviewer.ipython.org/7535439)
